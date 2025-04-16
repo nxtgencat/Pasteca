@@ -1,6 +1,6 @@
 {
   "name": "paste-enabler",
-  "displayName": "Paste enabler",
+  "displayName": "Pasteca",
   "version": "1.0.0",
   "description": "Reenables paste on sites that disable it",
   "author": "JonLuca DeCaro <chrome@jonlu.ca>",
